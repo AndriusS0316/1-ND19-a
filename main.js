@@ -1,4 +1,4 @@
-// astuoniolikta d uzduotis
+// devyniolikta a uzduotis
 
 
 
