@@ -2,3 +2,8 @@
 
 
 
+function time() {
+  // your code goes here
+}
+
+time();
